@@ -73,7 +73,7 @@ You can modify the `pattern` list to change the appearance of the DNA strand. Ea
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/jlchen5/DNA-helix/blob/main/LICENSE) - see the LICENSE file for details.
 
 ## Acknowledgments
 
